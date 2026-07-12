@@ -14,10 +14,11 @@ This repository showcases automated UI testing using Selenium WebDriver, Java, a
 - **OpenCartSearchTest** — searches for a product on the OpenCart demo store and verifies results appear, handling anti-bot detection via ChromeOptions
 
 ## Project Structure
-
+```
 src/
 ├── main/java/org/example/    — exploratory/utility scripts
 └── test/java/org/example/    — TestNG automated tests
+```
 
 ## Skills Demonstrated
 - Selenium WebDriver setup and configuration
@@ -26,4 +27,4 @@ src/
 - Handling real-world automation challenges (bot detection, dynamic waits)
 
 ## Contact
- [sruthiharshan@hotmail.coml]
+Email: sruthiharshan@hotmail.com
